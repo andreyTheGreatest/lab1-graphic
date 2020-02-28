@@ -22,7 +22,7 @@ public class Main extends Application {
         Rectangle r2 = new Rectangle(r1x + r1w - 30, r1y + r1h + 5, 75, 60);
         r2.setRotate(45.9);
 
-        Rectangle r3 = new Rectangle(r1x + r1w + 10, r1y + 7, 75, 70);
+        Rectangle r3 = new Rectangle(r1x + r1w + 10, r1y + 10, 75, 70);
         r3.setRotate(10.9);
 
         Line l1 = new Line(r1.getX() + r1.getWidth() / 2, r1.getY() + r1.getHeight() / 2, r2.getX() + r2.getWidth() / 2, r2.getY() + r2.getHeight() / 2);
