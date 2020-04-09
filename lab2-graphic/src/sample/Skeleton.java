@@ -9,7 +9,7 @@ import java.awt.geom.Rectangle2D;
 import javax.swing.*;
 
 @SuppressWarnings("serial")
-public class Skeleton extends JPanel implements ActionListener {
+public class    Skeleton extends JPanel implements ActionListener {
     Timer timer;
 
     private float scale = 1;
