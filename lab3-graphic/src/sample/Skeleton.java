@@ -21,35 +21,35 @@ public class Skeleton extends Application {
 
         drawPicture(root);
 
-        Path movement = new Path(
-                new MoveTo(120, 120),
-                new CubicCurveTo(270, 10, 470, 500, 880, 480)
-        );
-
-        PathTransition pathTransition = new PathTransition();
-        pathTransition.setDuration(Duration.millis(5000));
-        pathTransition.setPath(movement);
-        pathTransition.setNode(root);
-        pathTransition.setAutoReverse(true);
-
-        RotateTransition rotateTransition = new RotateTransition(Duration.millis(2500), root);
-        rotateTransition.setByAngle(360);
-        rotateTransition.setCycleCount(3);
-
-        ScaleTransition scaleTransition = new ScaleTransition(Duration.millis(5000), root);
-        scaleTransition.setToX(0.4);
-        scaleTransition.setToY(0.4);
-        scaleTransition.setAutoReverse(true);
-
-        ParallelTransition parallelTransition = new ParallelTransition();
-        parallelTransition.getChildren().addAll(
-                rotateTransition,
-                scaleTransition,
-                pathTransition
-        );
-        parallelTransition.setCycleCount(Timeline.INDEFINITE);
-        parallelTransition.setAutoReverse(true);
-        parallelTransition.play();
+//        Path movement = new Path(
+//                new MoveTo(120, 120),
+//                new CubicCurveTo(270, 10, 470, 500, 880, 480)
+//        );
+//
+//        PathTransition pathTransition = new PathTransition();
+//        pathTransition.setDuration(Duration.millis(5000));
+//        pathTransition.setPath(movement);
+//        pathTransition.setNode(root);
+//        pathTransition.setAutoReverse(true);
+//
+//        RotateTransition rotateTransition = new RotateTransition(Duration.millis(2500), root);
+//        rotateTransition.setByAngle(360);
+//        rotateTransition.setCycleCount(3);
+//
+//        ScaleTransition scaleTransition = new ScaleTransition(Duration.millis(5000), root);
+//        scaleTransition.setToX(0.4);
+//        scaleTransition.setToY(0.4);
+//        scaleTransition.setAutoReverse(true);
+//
+//        ParallelTransition parallelTransition = new ParallelTransition();
+//        parallelTransition.getChildren().addAll(
+//                rotateTransition,
+//                scaleTransition,
+//                pathTransition
+//        );
+//        parallelTransition.setCycleCount(Timeline.INDEFINITE);
+//        parallelTransition.setAutoReverse(true);
+//        parallelTransition.play();
 
         primaryStage.setScene(scene);
         primaryStage.show();
