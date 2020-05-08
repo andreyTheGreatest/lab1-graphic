@@ -4,4 +4,4 @@
 
 
 #### Анімація
-![animation.gif](img/animation.gif)
+![animation.gif](img/ani.gif)
