@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c389b851-95f1-481c-ac8f-b39a834ee8cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/black_widow.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/resources/black_widow.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kpi/fpm/pzks/maokg/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/backgrounds/depot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/backgrounds/polova.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tram/tram.blend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tram/tram.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tram/tram.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tram/tram.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tram/tram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/main/java/ua/kpi/fpm/pzks/maokg/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/main/resources/backgrounds/in_the_sky.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/main/resources/models/helicopter.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/main/resources/textures/camouflage.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bmSPlZVx1RdK4J84PhSkT9UIIX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c389b851-95f1-481c-ac8f-b39a834ee8cf" name="Default Changelist" comment="" />
+      <created>1589235753625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589235753625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1809" height="262" key="GridCell.Tab.0.bottom" timestamp="1589238759091">
+      <screen x="65" y="24" width="1855" height="926" />
+    </state>
+    <state width="1809" height="262" key="GridCell.Tab.0.bottom/65.24.1855.926@65.24.1855.926" timestamp="1589238759091" />
+    <state width="1809" height="262" key="GridCell.Tab.0.center" timestamp="1589238759090">
+      <screen x="65" y="24" width="1855" height="926" />
+    </state>
+    <state width="1809" height="262" key="GridCell.Tab.0.center/65.24.1855.926@65.24.1855.926" timestamp="1589238759090" />
+    <state width="1809" height="262" key="GridCell.Tab.0.left" timestamp="1589238759070">
+      <screen x="65" y="24" width="1855" height="926" />
+    </state>
+    <state width="1809" height="262" key="GridCell.Tab.0.left/65.24.1855.926@65.24.1855.926" timestamp="1589238759070" />
+    <state width="1809" height="262" key="GridCell.Tab.0.right" timestamp="1589238759090">
+      <screen x="65" y="24" width="1855" height="926" />
+    </state>
+    <state width="1809" height="262" key="GridCell.Tab.0.right/65.24.1855.926@65.24.1855.926" timestamp="1589238759090" />
+    <state width="1809" height="313" key="GridCell.Tab.1.bottom" timestamp="1589238677052">
+      <screen x="65" y="24" width="1855" height="926" />
+    </state>
+    <state width="1809" height="313" key="GridCell.Tab.1.bottom/65.24.1855.926@65.24.1855.926" timestamp="1589238677052" />
+    <state width="1809" height="313" key="GridCell.Tab.1.center" timestamp="1589238677051">
+      <screen x="65" y="24" width="1855" height="926" />
+    </state>
+    <state width="1809" height="313" key="GridCell.Tab.1.center/65.24.1855.926@65.24.1855.926" timestamp="1589238677051" />
+    <state width="1809" height="313" key="GridCell.Tab.1.left" timestamp="1589238677051">
+      <screen x="65" y="24" width="1855" height="926" />
+    </state>
+    <state width="1809" height="313" key="GridCell.Tab.1.left/65.24.1855.926@65.24.1855.926" timestamp="1589238677051" />
+    <state width="1809" height="313" key="GridCell.Tab.1.right" timestamp="1589238677052">
+      <screen x="65" y="24" width="1855" height="926" />
+    </state>
+    <state width="1809" height="313" key="GridCell.Tab.1.right/65.24.1855.926@65.24.1855.926" timestamp="1589238677052" />
+  </component>
+</project>
